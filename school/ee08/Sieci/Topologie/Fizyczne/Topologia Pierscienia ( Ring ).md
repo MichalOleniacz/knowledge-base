@@ -4,6 +4,7 @@ Komputery polaczone ze soba odcinkami kabla tworzac zamkniety pierscien. W celu 
 
 Najczesciej stosowany jest <b>kabel swiatlowodowy</b>.
 
+
 ![[topologia-pierscienia.png]]
 
 <table>

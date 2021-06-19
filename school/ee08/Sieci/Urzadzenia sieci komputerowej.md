@@ -8,9 +8,11 @@
 
 <b>Most</b> - Laczy segmenty sieci. Podejmuje inteligentne decyzje o puszczaniu sygnalow lub nie do pozostalych segmentow sieci.
 
-<b>Router</b> - urzadzenie ktore jest podlaczone do dwoch lub wiecej roznych sieci i przekazuje pakiety danych miedzy nimi.
+<b>Router</b> - urzadzenie ktore jest podlaczone do dwoch lub wiecej roznych sieci i przekazuje pakiety danych miedzy nimi. ^ed8867
 
-<b>Access Point</b> - urzadzenie zapewniajace hostom dostep w sieci lokalnej za pomoca fal radiowych. Najczesciej laczy bezprzewodowa siec WLAN z siecia lokalna WLAN.
+<b>Access Point</b> - urzadzenie zapewniajace hostom dostep w sieci lokalnej za pomoca fal radiowych. Najczesciej laczy bezprzewodowa siec WLAN z siecia lokalna WLAN. ^e9ed05
+
+[[Funkcje Acces Point'a]]
 
 <b>Gateway</b> - pelni funkcje dostepu do danej sieci. Mozna powiedziec ze posredniczy w komunikacji miedzy roznymi technologiami sieciowymi.
 

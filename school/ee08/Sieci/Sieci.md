@@ -1,6 +1,8 @@
 [[Podstawowe zagadnienia sieci]]
 [[Urzadzenia sieci komputerowej]]
+[[Rodzaje sieci]]
 [[Adresy]]
 [[Topologie]]
 [[Standardy]]
 [[Media transmisyjne]]
+[[Sieci bezprzewodowe]]

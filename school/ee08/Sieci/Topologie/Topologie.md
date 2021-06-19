@@ -11,3 +11,5 @@
 ## Topologia logiczna
 
 ![[Podstawowe zagadnienia sieci#^75b74d]]
+
+![[Topologie Logiczne]]

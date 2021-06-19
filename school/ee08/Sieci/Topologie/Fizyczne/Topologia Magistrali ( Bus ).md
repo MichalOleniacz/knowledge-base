@@ -3,6 +3,7 @@
 Polega na polaczeniu wszystkich urzadzen do glownej magistrali za pomoca lacznikow ( connector ), a jej konce zakonczone sa terminatorami.
 
 Najczesciej stosowany jest <b>kabel koncentryczny</b>
+[[Koncentryk]]
 
 ![[topologia-magistrali.png]]
 

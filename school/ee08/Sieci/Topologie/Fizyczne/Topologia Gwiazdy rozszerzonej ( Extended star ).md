@@ -4,6 +4,7 @@ Zasada tej topologi jest hierarchiczne laczenie urzadzen aktywnych ze soba. Podo
 [[Topologia Gwiazdy ( Star )]]
 
 Najczesciej stosowana jest <b>skretka osmiozylowa</b>
+[[Skretka UTP]]
 
 ![[topologia-gwiazdy-rozszerzonej.png]]
 

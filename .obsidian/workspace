@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "145d8fa0b552c818",
+        "id": "fd746dec2c6932f7",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -74,6 +74,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "1407519cca2da869",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -82,17 +93,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "145d8fa0b552c818",
+  "active": "fd746dec2c6932f7",
   "lastOpenFiles": [
-    "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Siec WiFi ( Wireless Fidelity ).md",
-    "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Untitled.md",
-    "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Zalety WiFi.md",
-    "school/ee08/Sieci/Topologie/Fizyczne/Topologia Gwiazdy rozszerzonej ( Extended star ).md",
-    "school/ee08/Sieci/Podstawowe zagadnienia sieci.md",
+    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Zlacza i wtyki swiatlowodowe.md",
+    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Swiatlowod.md",
+    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Zalety i wady swiatlowodu.md",
+    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Untitled.md",
+    "school/ee08/Sieci/Topologie/Fizyczne/Topologia Gwiazdy ( Star ).md",
+    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Przewodowe media transmisyjne.md",
+    "school/ee08/Sieci/Sieci bezprzewodowe/Siec typu ESS.md",
+    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Rodzaje swiatlowodow.md",
     "school/ee08/Sieci/Standardy.md",
-    "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Fale radiowe ( radio wave ).md",
-    "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Fale podczerwienie ( InfraRed ).md",
-    "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Bezprzewodowe media transmisyjne.md",
-    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Untitled.md"
+    "school/ee08/Sieci/Topologie/Fizyczne/Topologia Siatki ( Mesh ).md"
   ]
 }

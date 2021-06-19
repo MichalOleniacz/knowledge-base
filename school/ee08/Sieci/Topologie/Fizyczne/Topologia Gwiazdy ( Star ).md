@@ -5,6 +5,7 @@ Polega na polaczeniu wszystkich elementow do jednego urzadzenia centralnego np. 
 ![[Urzadzenia sieci komputerowej#^6c84c3]]
 
 Najczesciej wykorzystywana jest skretka osmiozylowa.
+[[Skretka UTP]]
 
 ![[topologia-gwiazdy.png]]
 

@@ -7,6 +7,7 @@ Zasada tej topologi jest bezposrednie polaczenie kazdego wezla ze wszystkimi inn
 Wyrozniamy topologie pelnej i czesciowej siatki.
 
 Najczesciej stosowana jest <b>skretka osmiozylowa</b>.
+[[Skretka UTP]]
 
 ![[topologia-siatki.png]]
 
