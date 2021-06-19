@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24f24d4427e3506a",
+        "id": "145d8fa0b552c818",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "school/ee08/Sieci/Untitled.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/ee08/Sieci/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "24f24d4427e3506a",
+  "active": "145d8fa0b552c818",
   "lastOpenFiles": [
-    "school/ee08/Sieci/Untitled.md",
-    "school/ee08/Systemy liczbowe/System Osemkowy.md",
-    "school/ee08/Sieci/Sieci.md",
-    "school/ee08/Kwalifikacja ee08.md",
-    "system-binarny-potegi.png",
-    "school/ee08/Systemy liczbowe/Systemy Liczbowe.md",
-    "school/ee08/Systemy liczbowe/Untitled.md",
-    "school/ee08/Untitled.md",
-    "Pasted image 20210619132000.png",
-    "school/ee08/Systemy liczbowe/System Heksadecymalny.md"
+    "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Siec WiFi ( Wireless Fidelity ).md",
+    "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Untitled.md",
+    "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Zalety WiFi.md",
+    "school/ee08/Sieci/Topologie/Fizyczne/Topologia Gwiazdy rozszerzonej ( Extended star ).md",
+    "school/ee08/Sieci/Podstawowe zagadnienia sieci.md",
+    "school/ee08/Sieci/Standardy.md",
+    "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Fale radiowe ( radio wave ).md",
+    "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Fale podczerwienie ( InfraRed ).md",
+    "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Bezprzewodowe media transmisyjne.md",
+    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Untitled.md"
   ]
 }
