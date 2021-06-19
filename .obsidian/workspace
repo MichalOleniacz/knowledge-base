@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "a0c5a2b965e32adf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0b3c05d5422f186",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "school/ee08/Systemy liczbowe/System binarny.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d0fb6d8a01ed867",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab9ad355e4073851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b90b2b927c04ab8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4d258ac7b975a63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97c6922e679471a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "998d1e758c7005a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91ff1107663832d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "school/ee08/Systemy liczbowe/System binarny.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d0b3c05d5422f186",
+  "lastOpenFiles": [
+    "school/ee08/systemy-liczbowe/Untitled.md",
+    "Dodawanie i odejmowanie binarne - Youtube.md",
+    "school/ee08/systemy-liczbowe/system-binarny.md",
+    "system-binarny-potegi.png",
+    "Pasted image 20210619120423.png"
+  ]
+}
