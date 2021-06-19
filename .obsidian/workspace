@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b3c05d5422f186",
+        "id": "24f24d4427e3506a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "school/ee08/Systemy liczbowe/System binarny.md",
-            "mode": "preview"
+            "file": "school/ee08/Sieci/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/ee08/Systemy liczbowe/System binarny.md",
+                "file": "school/ee08/Sieci/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,12 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0b3c05d5422f186",
+  "active": "24f24d4427e3506a",
   "lastOpenFiles": [
-    "school/ee08/systemy-liczbowe/Untitled.md",
-    "Dodawanie i odejmowanie binarne - Youtube.md",
-    "school/ee08/systemy-liczbowe/system-binarny.md",
+    "school/ee08/Sieci/Untitled.md",
+    "school/ee08/Systemy liczbowe/System Osemkowy.md",
+    "school/ee08/Sieci/Sieci.md",
+    "school/ee08/Kwalifikacja ee08.md",
     "system-binarny-potegi.png",
-    "Pasted image 20210619120423.png"
+    "school/ee08/Systemy liczbowe/Systemy Liczbowe.md",
+    "school/ee08/Systemy liczbowe/Untitled.md",
+    "school/ee08/Untitled.md",
+    "Pasted image 20210619132000.png",
+    "school/ee08/Systemy liczbowe/System Heksadecymalny.md"
   ]
 }
