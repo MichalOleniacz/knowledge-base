@@ -12,3 +12,8 @@ Swiatlo dociera do konca kabla, gdzie jest odbierane przez elementy odbiorcze - 
 ![[Zalety i wady swiatlowodu]]
 
 ![[Zlacza i wtyki swiatlowodowe]]
+
+![[Typy zlacz swiatlowodowych]]
+
+Swiatlowody laczy sie za pomoca klejenia, spawania i laczen mechanicznych (np. zlaczek).
+
