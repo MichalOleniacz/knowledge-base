@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd746dec2c6932f7",
+        "id": "62f38b8d55d44f5d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "school/ee08/Sieci/Media transmisyjne/Przewodowe/Swiatlowod.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/ee08/Sieci/Media transmisyjne/Przewodowe/Swiatlowod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +93,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd746dec2c6932f7",
+  "active": "62f38b8d55d44f5d",
   "lastOpenFiles": [
-    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Swiatlowod.md",
-    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Typy zlacz swiatlowodowych.md",
-    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Zlacza i wtyki swiatlowodowe.md",
-    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Untitled.md",
-    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Skretka UTP.md",
-    "school/ee08/Sieci/Topologie/Fizyczne/Topologia Gwiazdy ( Star ).md",
-    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Zalety i wady swiatlowodu.md",
-    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Przewodowe media transmisyjne.md",
-    "school/ee08/Sieci/Sieci bezprzewodowe/Siec typu ESS.md",
-    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Rodzaje swiatlowodow.md"
+    "school/ee08/Diagnostyka/Obudowy komputerowe/Obudowy komputerowe.md",
+    "school/ee08/Diagnostyka/Obudowy komputerowe/Untitled.md",
+    "school/ee08/Diagnostyka/Diagnostyka.md",
+    "school/ee08/Diagnostyka/Licencje oprogramowania/Licencje oprogramowania.md",
+    "school/ee08/Diagnostyka/Licencje oprogramowania/Untitled.md",
+    "school/ee08/Diagnostyka/Licencje oprogramowania/Licencja Adware.md",
+    "school/ee08/Diagnostyka/Licencje oprogramowania.md",
+    "school/ee08/Kwalifikacja ee08.md",
+    "school/ee08/Diagnostyka/Untitled.md",
+    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Swiatlowod.md"
   ]
 }

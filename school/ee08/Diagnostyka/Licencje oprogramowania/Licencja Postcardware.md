@@ -1,0 +1,1 @@
+Licencja zakladajaca darmowe uzycie programu pod warunkiem wyslania jej autorowi kartki pocztowej (najczesciej z miejscowosci, w ktorej mieszka).

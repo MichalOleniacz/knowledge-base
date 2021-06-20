@@ -1,0 +1,4 @@
+- definiuje sposoby konwersji kodu i reformatowania danych
+- odpowiada za reprezentacje danych
+- szyfruje dane i kompresuje je
+- wspolpracuje z [[Warstwa aplikacji]] i [[Warstwa sesji]]

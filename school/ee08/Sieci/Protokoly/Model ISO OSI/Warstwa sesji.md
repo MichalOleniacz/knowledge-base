@@ -1,0 +1,4 @@
+- utrzymuje sesje (przebieg komunikacji) miedzy nadawca a odbiorca
+- konczy wykonanie zadania przed przyjeciem nowego
+- okresla kierunek komunikacji
+- wspolpracuje z [[Warstwa prezentacji]] i [[Warstwa transportowa]]

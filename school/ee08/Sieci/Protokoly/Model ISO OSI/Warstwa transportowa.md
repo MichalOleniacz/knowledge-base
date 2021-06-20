@@ -1,0 +1,7 @@
+- jest odpowiedzialna za koncowa integralnosc transmisji
+- dzieli na segmentu i kontroluje bledy
+- <b>w naglowku segmentu umieszcza numer portow</b>
+- wysyla potwierdzenie o dotarciu badz nie, danego pakietu
+- wykrywa pakiety odrzucone przez routery i generuje zadanie ich ponownej transmisji
+- identyfikuje sekwencje pakietow i ustawia je w oryginalnej kolejnosci
+- wspolpracuje z [[Warstwa sesji]] i [[Warstwa sieciowa]]

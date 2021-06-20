@@ -1,1 +1,1 @@
-[[Systemy Liczbowe]][[Sieci]]
+[[Systemy Liczbowe]][[Sieci]][[Diagnostyka]]

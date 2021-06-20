@@ -1,0 +1,1 @@
+Licencja obejmuje jedno urzadzenie, do ktorego zostala przypisana.

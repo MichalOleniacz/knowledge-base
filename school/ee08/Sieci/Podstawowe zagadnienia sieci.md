@@ -17,3 +17,9 @@
 <b>Topologia logiczna</b> - sposob komunikacji miedzy urzadzeniami w sieci za pomoca danej infrasktruktury fizycznej. ^75b74d
 
 <b>IEEE</b> - miedzynarodowa organizacjia zajmujaca sie tworzeniem i definiowaniem specyfikacji topologii logicznych. (Instytut Inzynierow Elektrykow i Elektronikow) ^88202e
+
+
+<b>Protokol sieciowy</b> - zestaw regul, ktory umozliwia komunikacje w sieci. ^24e9fc
+
+
+<b>Model ISO/OSI</b> - to wzorcowy model transmisji danych w sieciach komputerowych. Sklada sie z 7 warstw i wyjasnia w jaki sposob dane je pokonuja w drodze do innego urzadzenia w sieci, dla producentow jest norma przy kostruowaniu rozwiazan siecowych. ^5b06ec

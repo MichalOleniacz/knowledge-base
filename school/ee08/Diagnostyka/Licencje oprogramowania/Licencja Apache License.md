@@ -1,0 +1,1 @@
+Licencja wolnego oprogramowania dopuszczajaca uzycie kodu zrodlowego zarowo na potrzeby wolnego oprogramowania jak i wlasnosciowego oprogramowania.

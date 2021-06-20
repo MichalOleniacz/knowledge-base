@@ -1,0 +1,1 @@
+Adware jest oprogramowaniem rozpowszechnianym za darmo, ktorego producent otrzymuje wynagrodzenie za wyswietlanie reklam zlecanych przez sponsorow.
