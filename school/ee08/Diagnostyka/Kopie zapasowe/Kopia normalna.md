@@ -1,0 +1,1 @@
+<b>Normalna</b> - kopiuje wszystkie wybrane pliki i czysci z nich atrybut archiwalnosci, aby nastepne kopie zapisaly tylko te pliki, ktore zmienily sie od ostaniej archiwizacji. Zazwyczaj wykonywana jest wtedy, gdy zestaw kopii tworzony jest po raz pierwszy. ^90901b

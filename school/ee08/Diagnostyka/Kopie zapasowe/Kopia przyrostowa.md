@@ -1,0 +1,1 @@
+<b>Kopia przyrostowa</b> - kopiuje tylko te pliki, ktore zmienily sie od czasu ostatniej archiwizacji przyrostowej lub normalnej. Czyli te pliki, ktore kiedys byly zarchiwizowane, ale zmienila sie ich zawartosc i nalezy je skopiowac jeszcze raz. Po kopiowaniu czyszczony jest atrybut archiwizacji. ^914bdf

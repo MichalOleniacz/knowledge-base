@@ -1,0 +1,1 @@
+<b>Kopia roznicowa</b> kopiuje tylko te pliki, ktore zmienily sie od czasu ostatniej kopii normalnej albo przyrostowej. Nie zmienia jednak atrybutu archiwalnosci. ^031f80

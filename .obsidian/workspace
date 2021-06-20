@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "62f38b8d55d44f5d",
+        "id": "8f14b30a0db6da98",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -93,17 +93,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "62f38b8d55d44f5d",
+  "active": "8f14b30a0db6da98",
   "lastOpenFiles": [
+    "school/ee08/Diagnostyka/Kopie zapasowe/Kopie zapasowe.md",
+    "school/ee08/Diagnostyka/Kopie zapasowe/Strategie kopii zapasowych/Strategie kopii zapasowych.md",
+    "school/ee08/Diagnostyka/Kopie zapasowe/Strategie kopii zapasowych/Untitled.md",
+    "school/ee08/Diagnostyka/Kopie zapasowe/Strategie kopii zapasowych/Dziadek Ojciec Syn.md",
+    "school/ee08/Diagnostyka/Kopie zapasowe/Untitled.md",
+    "school/ee08/Diagnostyka/Diagnostyka.md",
     "school/ee08/Diagnostyka/Obudowy komputerowe/Obudowy komputerowe.md",
     "school/ee08/Diagnostyka/Obudowy komputerowe/Untitled.md",
-    "school/ee08/Diagnostyka/Diagnostyka.md",
     "school/ee08/Diagnostyka/Licencje oprogramowania/Licencje oprogramowania.md",
-    "school/ee08/Diagnostyka/Licencje oprogramowania/Untitled.md",
-    "school/ee08/Diagnostyka/Licencje oprogramowania/Licencja Adware.md",
-    "school/ee08/Diagnostyka/Licencje oprogramowania.md",
-    "school/ee08/Kwalifikacja ee08.md",
-    "school/ee08/Diagnostyka/Untitled.md",
-    "school/ee08/Sieci/Media transmisyjne/Przewodowe/Swiatlowod.md"
+    "school/ee08/Diagnostyka/Licencje oprogramowania/Untitled.md"
   ]
 }
