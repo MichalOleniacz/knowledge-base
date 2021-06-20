@@ -1,1 +1,1 @@
-[[Systemy Liczbowe]][[Sieci]][[Diagnostyka]]
+[[Urzadzenia Techniki Komputerowej]][[Sieci]][[Diagnostyka]]

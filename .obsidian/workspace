@@ -7,8 +7,11 @@
         "id": "8f14b30a0db6da98",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Siec WiFi ( Wireless Fidelity ).md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Siec WiFi ( Wireless Fidelity ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +99,15 @@
   },
   "active": "8f14b30a0db6da98",
   "lastOpenFiles": [
-    "school/ee08/Diagnostyka/Kopie zapasowe/Kopie zapasowe.md",
-    "school/ee08/Diagnostyka/Kopie zapasowe/Strategie kopii zapasowych/Strategie kopii zapasowych.md",
-    "school/ee08/Diagnostyka/Kopie zapasowe/Strategie kopii zapasowych/Untitled.md",
-    "school/ee08/Diagnostyka/Kopie zapasowe/Strategie kopii zapasowych/Dziadek Ojciec Syn.md",
-    "school/ee08/Diagnostyka/Kopie zapasowe/Untitled.md",
-    "school/ee08/Diagnostyka/Diagnostyka.md",
-    "school/ee08/Diagnostyka/Obudowy komputerowe/Obudowy komputerowe.md",
-    "school/ee08/Diagnostyka/Obudowy komputerowe/Untitled.md",
-    "school/ee08/Diagnostyka/Licencje oprogramowania/Licencje oprogramowania.md",
-    "school/ee08/Diagnostyka/Licencje oprogramowania/Untitled.md"
+    "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Siec WiFi ( Wireless Fidelity ).md",
+    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/RAID 10.md",
+    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/RAID 50.md",
+    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/RAID 5.md",
+    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/RAID 4.md",
+    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/RAID 1.md",
+    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/RAID 0.md",
+    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/Untitled.md",
+    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/Standardy Macierzy RAID.md",
+    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/Macierze RAID.md"
   ]
 }
