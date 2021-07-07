@@ -1,0 +1,5 @@
+[[Programming]]
+[[School]]
+[[Side Projects]]
+[[Work]]
+[[Daily notes]]

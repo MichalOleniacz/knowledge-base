@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8f14b30a0db6da98",
+        "id": "66740446f4d9576e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Siec WiFi ( Wireless Fidelity ).md",
-            "mode": "preview"
+            "file": "templates/Daily note.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Siec WiFi ( Wireless Fidelity ).md",
+                "file": "templates/Daily note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8f14b30a0db6da98",
+  "active": "66740446f4d9576e",
   "lastOpenFiles": [
-    "school/ee08/Sieci/Media transmisyjne/Bezprzewodowe/Siec WiFi ( Wireless Fidelity ).md",
-    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/RAID 10.md",
-    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/RAID 50.md",
-    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/RAID 5.md",
-    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/RAID 4.md",
-    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/RAID 1.md",
-    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/RAID 0.md",
-    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/Untitled.md",
-    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/Standardy Macierzy RAID.md",
-    "school/ee08/Urzadzenia Techniki Komputerowej/Macierze RAID/Macierze RAID.md"
+    "templates/Daily note.md",
+    "templates/Linking node.md",
+    "templates/Research atom.md",
+    "school/ee08/Kwalifikacja ee08.md",
+    "programming/Makefile/Makefile.md",
+    "programming/Makefile/Basics concepts of Makefile.md",
+    "programming/Programming.md",
+    "templates/Untitled.md",
+    "Personal.md",
+    "Daily notes/Untitled.md"
   ]
 }

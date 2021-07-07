@@ -1,0 +1,1 @@
+![[uprawnienia-linux.png]]
